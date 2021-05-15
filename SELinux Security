@@ -1,0 +1,21 @@
+                                                CHAPTER 4 -SELinux Security
+                                                 
+                                                 
+         SELinux Security: (Security Enhanced Linux)
+
+   1.It is the security architecture for Linux systems
+   2.It allows administrators to have more control on who can access the system .
+
+   
+   
+   Modes of SELinux :
+   1.Disabled - In this mode no SELinux policy is loaded.
+   2.Enabled 
+       A.Active- security policy is enforced in this type of mode.
+       B.Permissive- In permissive mode instead of enforcing security policy, it prints warnings.
+
+  
+    
+    Commands of SELinux Security are:
+    1. getinforce - to enforce the privacy policy
+    2. sestatus - to get information about the current status of SELinux 
